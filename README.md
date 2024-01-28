@@ -1,4 +1,4 @@
-## Cryptocurrency Return Prediction Project Overview
+## Cryptocurrency Return Prediction 
 
 The **CryptocurrencyReturnPrediction** project aims to predict the direction of cryptocurrency prices by employing various machine learning algorithms across different cryptocurrencies. This project implements and extends the approach described in the paper "Prediction of Cryptocurrency Returns Using Machine Learning" by Akyildirim. The extension involves utilizing high-frequency (1-minute level) data, feature selection, and feature extraction methods to enhance the performance of the models.
 
